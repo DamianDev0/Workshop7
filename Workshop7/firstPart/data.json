@@ -1,0 +1,38 @@
+{
+    "usuario": [
+        {
+            "email": "dg997678@gmail.com",
+            "nombre": "joji",
+            "clave": "damian45d",
+            "puntosAcumulados": 100
+            
+        },
+        {
+            "email": "yeyo-224@hotmail.com",
+            "nombre": "alejogay",
+            "clave": "damianesgay",
+            "puntosAcumulados": 60
+            
+        },
+        {
+            "email": "robinpala092001@gmail.com",
+            "nombre": "robin",
+            "clave": "kasuya",
+            "puntosAcumulados": 80
+        }
+    ],
+    "admin": [
+        {
+            "email": "aguntetalleres@gmail.com",
+            "nombre": "aguante",
+            "clave": "nosebro12",
+            "puntosAcumulados": 80
+        },
+        {
+            "email": "elanticrito666@gmail.com",
+            "nombre": "elanticrito",
+            "clave": "diostebendiga",
+            "puntosAcumulados": 30
+        }
+    ]
+}
